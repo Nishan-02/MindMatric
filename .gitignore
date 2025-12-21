@@ -1,0 +1,18 @@
+# ===== Android =====
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+
+# ===== Web (React / Vite) =====
+node_modules/
+dist/
+.env
+
+# ===== Logs =====
+*.log
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
